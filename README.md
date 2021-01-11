@@ -1,8 +1,8 @@
 ## Création d'un bot Twitter qui va nous permettre de :
-* autoliké/retweeté automatiquement des tweets en fonction de certains critères (hashtags, location, langue,etc.),
+* autoliker/retweeter automatiquement des tweets en fonction de certains critères (hashtags, location, langue,etc.),
 * s'auto-abonner à certains comptes particuliers (cela peut être fait en fonction de certains critères comme les hashtags mentionnés, la location de l'utilisateur, la langue,etc.).
 
-#### Bien évidemment Twitter restreint l'utilisation de bots et risque de très facilement vous exclure pendant un certain temps si vous faites une utilisation trop abusive de ces scripts. Techniquement, les limites de twitter sont les suivantes :
+#### Bien évidemment Twitter restreint l'utilisation de bots et risque de très facilement vous exclure pendant un certain temps si vous faites une utilisation trop abusive de ces scripts. Techniquement, les limites de Twitter sont les suivantes :
 
 ### The current technical limits for accounts are:
 
@@ -12,10 +12,9 @@
  * Following (daily): The technical follow limit is 1,000 per day. Please note that this is a technical account limit only, and there are  additional rules prohibiting aggressive following behavior. Read about following limits and prohibited behavior. 
  * Following (account-based): Once an account is following 5,000 other accounts, additional follow attempts are limited by account-specific ratios. 
  
- ### Ces limites sont thériques mais avec un bot elles changent. À première vue, il semble que par jour les limites pratiques à ne pas dépasser soient :
+ ### Ces limites sont théoriques mais avec un bot, elles changent. À première vue, il semble que les limites quotidiennes pratiques à ne pas dépasser soient :
  * RT : ~ 400-500
  * Likes : ~ 700-800
- * Follow : ~ 200-500 ?? A VOIR
+ * Follow : ~ 200-500
 
-#### Twitter a récemment déployé beaucoup de moyens et d'efforts à bannir les bots notamment suite aux bots russes qui auraient interférés dans les élections américaines. 
-#### Attention, à ne pas pratiquer le "mass following" sinon, vous ne pourrez plus vous abonnez, likez ou retweeté pendant un certain temps (48 h ou 71h en général).
+#### Attention, à ne pas pratiquer le "mass following" sinon, vous ne pourrez plus vous abonner, liker ou retweeter pendant un certain temps (48 ou 71 heures en général).
