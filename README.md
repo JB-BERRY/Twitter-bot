@@ -1,4 +1,4 @@
-## Création_d-un_bot/Scripts_Twitter qui vont nous permettre de :
+## Création d'un bot Twitter qui va nous permettre de :
 * autoliké/retweeté automatiquement des tweets en fonction de certains critères (hashtags, location, langue,etc.),
 * s'auto-abonner à certains comptes particuliers (cela peut être fait en fonction de certains critères comme les hashtags mentionnés, la location de l'utilisateur, la langue,etc.).
 
