@@ -2,7 +2,7 @@
 * autoliker/retweeter automatiquement des tweets en fonction de certains critères (hashtags, location, langue,etc.),
 * s'auto-abonner à certains comptes particuliers (cela peut être fait en fonction de certains critères comme les hashtags mentionnés, la location de l'utilisateur, la langue,etc.).
 
-#### Bien évidemment Twitter restreint l'utilisation de bots et risque de très facilement vous exclure pendant un certain temps si vous faites une utilisation trop abusive de ces scripts. Techniquement, les limites de Twitter sont les suivantes :
+#### Bien évidemment, Twitter restreint l'utilisation de bots et risque de très facilement vous exclure pendant un certain temps si vous faites une utilisation trop abusive de ces scripts. Techniquement, les limites de Twitter sont les suivantes :
 
 ### The current technical limits for accounts are:
 
